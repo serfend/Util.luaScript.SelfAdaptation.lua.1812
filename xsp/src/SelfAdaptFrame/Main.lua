@@ -1,0 +1,8 @@
+require "SelfAdaptFrame.File"
+require "SelfAdaptFrame.Hud"
+require "SelfAdaptFrame.MutiPoints"
+require "SelfAdaptFrame.OCR"
+require "SelfAdaptFrame.Point"
+require "SelfAdaptFrame.Runtime"
+require "SelfAdaptFrame.Slide"
+require "SelfAdaptFrame.System"
