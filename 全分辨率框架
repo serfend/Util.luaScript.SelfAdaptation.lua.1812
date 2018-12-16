@@ -27,7 +27,10 @@ Arry	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	15;"	e
 Base	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\Demo\Slide.lua	6;"	e
 Black	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\OCR.lua	12;"	e
 Black	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\OCR.lua	38;"	e
+Bottom	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	33;"	e
 Bottom	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	6;"	e
+BottomLeft	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	46;"	e
+BottomRight	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	56;"	e
 ClearFile()--æ¸…é™¤å½“å‰æ–‡ä»¶å†…å®¹	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\File.lua	51;"	f
 ClearText()	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\Point.lua	120;"	f
 Click(T)	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\MutiPoints.lua	65;"	f
@@ -77,8 +80,11 @@ HUD:getdata	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\Hud.lu
 HUD:hide	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\Hud.lua	23;"	f
 HUD:new	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\Hud.lua	5;"	f
 HUD:show	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\Hud.lua	19;"	f
+Left	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	21;"	e
 Left	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	3;"	e
+LeftBottom	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	42;"	e
 LeftBottom	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	8;"	e
+LeftTop	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	37;"	e
 LeftTop	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	7;"	e
 MainPoint	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\Demo\multiPoint.lua	25;"	e
 MainPoint	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\Demo\multiPoint.lua	34;"	e
@@ -87,6 +93,7 @@ MainPoint	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\MutiPoin
 MainPoint	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\MutiPoints.lua	53;"	e
 MainPoint	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\Point.lua	10;"	e
 MainPointsScaleMode	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\System.lua	16;"	e
+Middle	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	17;"	e
 Middle	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	2;"	e
 Move	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\Slide.lua	39;"	e
 Move	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\Slide.lua	65;"	e
@@ -107,8 +114,11 @@ PrivatePath	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\File.l
 PublicPath	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\File.lua	7;"	e
 ReadByJson()--è¯»å–Jsonæ ¼å¼çš„æ–‡ä»¶	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\File.lua	34;"	f
 ReadByJsontoStr()--è¯»å–Jsonæ ¼å¼çš„æ–‡ä»¶	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\File.lua	42;"	f
+Right	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	25;"	e
 Right	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	4;"	e
 RightBottom	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	10;"	e
+RightBottom	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	52;"	e
+RightTop	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	47;"	e
 RightTop	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	9;"	e
 Slide	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\Slide.lua	3;"	e
 Slide:Close	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\Slide.lua	37;"	f
@@ -129,9 +139,12 @@ System:setKeepTime	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame
 T	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\base.lua	14;"	e
 T	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\base.lua	15;"	e
 TableCopy	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\base.lua	1;"	f
+Top	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	29;"	e
 Top	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	5;"	e
 Top	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\main.lua	12;"	e
 Top	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\main.lua	16;"	e
+TopLeft	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	41;"	e
+TopRight	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	51;"	e
 White	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\OCR.lua	11;"	e
 White	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\OCR.lua	37;"	e
 Width	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\main.lua	13;"	e
@@ -483,6 +496,7 @@ str	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\File.lua	47;"	
 str	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\base.lua	179;"	e
 str	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\base.lua	181;"	e
 switch	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\base.lua	109;"	e
+switch	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	16;"	e
 t	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\Slide.lua	21;"	e
 t	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\Slide.lua	47;"	e
 t	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\Slide.lua	73;"	e
@@ -545,6 +559,15 @@ x	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\base.lua	135;"	e
 x	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\base.lua	139;"	e
 x	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\base.lua	143;"	e
 x	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\base.lua	152;"	e
+x	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	18;"	e
+x	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	22;"	e
+x	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	26;"	e
+x	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	30;"	e
+x	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	34;"	e
+x	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	38;"	e
+x	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	43;"	e
+x	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	48;"	e
+x	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	53;"	e
 x1	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\Slide.lua	51;"	e
 x1	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\Slide.lua	77;"	e
 x2	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\Slide.lua	52;"	e
@@ -566,6 +589,15 @@ y	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\base.lua	136;"	e
 y	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\base.lua	140;"	e
 y	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\base.lua	144;"	e
 y	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\base.lua	153;"	e
+y	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	19;"	e
+y	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	23;"	e
+y	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	27;"	e
+y	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	31;"	e
+y	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	35;"	e
+y	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	39;"	e
+y	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	44;"	e
+y	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	49;"	e
+y	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\const.lua	54;"	e
 y1	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\Slide.lua	53;"	e
 y1	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\Slide.lua	79;"	e
 y2	D:/aserfend/workSpace/lua/È«·Ö±æÂÊ¿ò¼Ü/xsp/src\SelfAdaptFrame\Slide.lua	54;"	e
